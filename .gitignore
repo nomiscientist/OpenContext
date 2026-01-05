@@ -34,7 +34,6 @@ crates/*/target/
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 *~
@@ -51,8 +50,6 @@ npm-debug.log*
 coverage/
 
 # Environment
-.env
-.env.local
 .env.*.local
 
 # Temporary files
@@ -66,3 +63,4 @@ coverage/
 
 # Local config (use mcp.example.json as template)
 mcp.json
+config.bat
